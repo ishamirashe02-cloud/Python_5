@@ -1,0 +1,11 @@
+# Python_5
+def min_in tuple(tpl):
+  return min(tpl)
+def max_in tuple(tpl):
+   retuen max(tpl)
+def sum_in tuple(tpl): 
+   return sum(tpl):
+sample_tpl=(1,2,3,4,5)
+print(f"minimum:{min_in_tuple(sample_tpl)}")
+print(f"maximum:{max_in_tuple(sample_tpl)}")
+print(f"sum:{max-in_tuple(sample_tpl)}")
